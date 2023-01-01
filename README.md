@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! Mi name is German Konradi
-  <img src="[./img/icon-hi.png](https://user-images.githubusercontent.com/71287015/210174304-87261b26-fbe7-41b8-a03a-74b0f19c1bee.png)" 
+  <img src="https://user-images.githubusercontent.com/71287015/210174304-87261b26-fbe7-41b8-a03a-74b0f19c1bee.png" 
        width="30px">
 </h1>
 
