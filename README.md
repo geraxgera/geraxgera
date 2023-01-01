@@ -37,7 +37,7 @@
   <img align="center" 
        alt="Facebook" 
        width="30px" 
-       src="https://user-images.githubusercontent.com/71287015/210174307-23f16e23-faa3-40c4-a34c-47c89898e513.gif" />
+       src="https://user-images.githubusercontent.com/71287015/210180872-8f8a5e60-9b00-4c43-8935-d1ae2061af18.svg" />
   </a>
   
 <a target="_blank" href="mailto:gera.konradi@.com">
