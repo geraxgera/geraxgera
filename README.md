@@ -48,4 +48,5 @@
   </a>
 </h1>
 
-![icons8-html-5](https://user-images.githubusercontent.com/71287015/210177428-7a537e83-e2e5-405d-a90d-ca83b8a19fcb.svg)
+
+![icons8-css3](https://user-images.githubusercontent.com/71287015/210177470-05039dba-561f-45c1-8b57-573cf39ac436.svg)
