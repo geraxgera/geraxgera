@@ -26,11 +26,11 @@
   
 <h1 align="center">
   
-<a target="_blank" href="https://user-images.githubusercontent.com/71287015/210180835-16825215-49bc-4904-89be-bb603ad1ffce.svg">
+<a target="_blank" href="">
   <img align="center" 
        alt="Linkdein" 
        width="30px" 
-       src="https://user-images.githubusercontent.com/71287015/210174323-5e6d0899-de05-4578-91ee-228477d9c4d2.gif" />
+       src="https://user-images.githubusercontent.com/71287015/210180835-16825215-49bc-4904-89be-bb603ad1ffce.svg" />
   </a>
 
   <a target="_blank" href="https://www.facebook.com/gera.konradi/">
