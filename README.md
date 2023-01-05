@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! Mi name is German Konradi
+<h1 align="center">Hello! My name is German Konradi
   <img src="https://user-images.githubusercontent.com/71287015/210174321-7695c93f-f66a-4f39-b82c-de5dca9c2a5b.png" 
        width="30px">
 </h1>
