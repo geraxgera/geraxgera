@@ -3,8 +3,7 @@
        width="30px">
 </h1>
 
-<p align="center">Technical Skills <br>
-  💻</p>
+<p align="center">Technical Skills:💻</p>
 
 <div align="center">
     <table>
@@ -23,7 +22,7 @@
     </table>
 </div>
 
-<p align="center">Social Network <br>✉️<p>
+<p align="center">Social Network:✉️<p>
   
 <h1 align="center">
   
