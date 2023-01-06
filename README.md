@@ -3,7 +3,7 @@
        width="30px">
 </h1>
 
-<p align="center">Technical Skills
+<p align="center">Technical Skills <br>
   💻</p>
 
 <div align="center">
