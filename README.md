@@ -26,7 +26,7 @@
   
 <h1 align="center">
   
-<a target="_blank" href="">
+<a target="_blank" href="https://www.linkedin.com/in/german-konradi-962860206/">
   <img align="center" 
        alt="Linkdein" 
        width="30px" 
