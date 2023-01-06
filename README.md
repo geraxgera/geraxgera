@@ -22,7 +22,7 @@
     </table>
 </div>
 
-<p align="center">Social Network<p>
+<p align="center">Social Network ✉️<p>
   
 <h1 align="center">
   
