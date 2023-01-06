@@ -30,21 +30,21 @@
 <a target="_blank" href="https://www.linkedin.com/in/german-konradi-962860206/">
   <img align="center" 
        alt="Linkdein" 
-       width="20px" 
+       width="30px" 
        src="https://user-images.githubusercontent.com/71287015/210180835-16825215-49bc-4904-89be-bb603ad1ffce.svg" />
   </a>
 
   <a target="_blank" href="https://www.facebook.com/gera.konradi/">
   <img align="center" 
        alt="Facebook" 
-       width="20px" 
+       width="30px" 
        src="https://user-images.githubusercontent.com/71287015/210180872-8f8a5e60-9b00-4c43-8935-d1ae2061af18.svg" />
   </a>
   
 <a target="_blank" href="mailto:gera.konradi@.com">
   <img align="center" 
        alt="Hotmail" 
-       width="20px" 
+       width="30px" 
        src="https://user-images.githubusercontent.com/71287015/210174311-e75a8c9b-3488-417b-b796-eb7f7f975107.png" />
   </a>
 </h1>
