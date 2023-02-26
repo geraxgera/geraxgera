@@ -1,49 +1,6 @@
-<h1 align="center">Hello! My name is German Konradi
-  <img src="https://user-images.githubusercontent.com/71287015/210174321-7695c93f-f66a-4f39-b82c-de5dca9c2a5b.png" 
-       width="30px">
-</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is German Konradi ======================================================================================================================================  Web Developer -------------  Mein Name ist German Konradi. Ich absolviere momentan mein Studium/Diploma als Webdesigner-/entwickler beim SAE Institute München. In meiner Freizeit lese ich gerne, fotografiere und informiere mich noch tiefer in das Coding.Ich bin verheiratet und habe ein Kind. Seit meiner Kindheit versuchte ich immer der Berufswünsche meiner Eltern, so wie es die meisten machen, zu folgen. Dadurch habe ich viele verschiedene Bereiche ausprobiert, war aber nie richtig zufrieden, mit dem was ich mache und kam zu dem Entschluss, meinen eigenen Träumen zu folgen und startete somit das Studium.  * 🌍  I'm based in Straubing, Germany * 🖥️  See my portfolio at [Portfolio](http://beautiful-paletas-a7fb8a.netlify.app/) * 🧠  I'm learning Vue.js
 
-<p align="center">Technical Skills: 💻</p>
+### Skills  
 
-<div align="center">
-    <table>
-    <tr>
-    <td align="center"><img height="50px" src="https://user-images.githubusercontent.com/71287015/210177428-7a537e83-e2e5-405d-a90d-ca83b8a19fcb.svg"></td>
-    <td align="center"><img height="50px" src="https://user-images.githubusercontent.com/71287015/210177470-05039dba-561f-45c1-8b57-573cf39ac436.svg"></td>
-    <td align="center"><img height="50px" src="https://user-images.githubusercontent.com/71287015/210179181-0e7a5d09-6d59-405f-89bb-1743d0a2cf63.svg"></td>
-    <td align="center"><img height="50px" src="https://user-images.githubusercontent.com/71287015/210179201-f8fc631a-b585-4e54-9f58-689af9709529.svg"></td>
-    </tr>
-    <tr>
-        <td align="center">HTML5</td>
-        <td align="center">CSS3</td>
-        <td align="center">JavaScript</td>
-        <td align="center">ReactJS</td>
-    </tr>
-    </table>
-</div>
-
-<p align="center">Social Network: ✉️<p>
-  
-<h1 align="center">
-  
-<a target="_blank" href="https://www.linkedin.com/in/german-konradi-962860206/">
-  <img align="center" 
-       alt="Linkdein" 
-       width="30px" 
-       src="https://user-images.githubusercontent.com/71287015/210180835-16825215-49bc-4904-89be-bb603ad1ffce.svg" />
-  </a>
-
-  <a target="_blank" href="https://www.facebook.com/gera.konradi/">
-  <img align="center" 
-       alt="Facebook" 
-       width="30px" 
-       src="https://user-images.githubusercontent.com/71287015/210180872-8f8a5e60-9b00-4c43-8935-d1ae2061af18.svg" />
-  </a>
-  
-<a target="_blank" href="mailto:gera.konradi@.com">
-  <img align="center" 
-       alt="Hotmail" 
-       width="30px" 
-       src="https://user-images.githubusercontent.com/71287015/210174311-e75a8c9b-3488-417b-b796-eb7f7f975107.png" />
-  </a>
-</h1>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a> <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> </p> 
+ ### Socials  <p align="left"> <a href="https://www.github.com/geraxgera " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/geraxgera " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/german-konradi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/geraxgera" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
